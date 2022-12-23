@@ -1,2 +1,4 @@
 # EQ for IEM
-use these inside parametric EQ like the one in Equalizer APO
+these are config files for Equalizer APO
+
+- if you open the files you can see individual PEQ's-
